@@ -1,0 +1,20 @@
+C:\Users\bryce\source\repos\AT2 Project\AT2 Project\bin\Debug\AT2 Project.exe.config
+C:\Users\bryce\source\repos\AT2 Project\AT2 Project\bin\Debug\AT2 Project.exe
+C:\Users\bryce\source\repos\AT2 Project\AT2 Project\bin\Debug\AT2 Project.pdb
+C:\Users\bryce\source\repos\AT2 Project\AT2 Project\obj\Debug\AT2 Project.csprojAssemblyReference.cache
+C:\Users\bryce\source\repos\AT2 Project\AT2 Project\obj\Debug\AT2_Project.Form1.resources
+C:\Users\bryce\source\repos\AT2 Project\AT2 Project\obj\Debug\AT2_Project.Properties.Resources.resources
+C:\Users\bryce\source\repos\AT2 Project\AT2 Project\obj\Debug\AT2 Project.csproj.GenerateResource.cache
+C:\Users\bryce\source\repos\AT2 Project\AT2 Project\obj\Debug\AT2 Project.csproj.CoreCompileInputs.cache
+C:\Users\bryce\source\repos\AT2 Project\AT2 Project\obj\Debug\AT2 Project.exe
+C:\Users\bryce\source\repos\AT2 Project\AT2 Project\obj\Debug\AT2 Project.pdb
+C:\Users\bryce\OneDrive\Desktop\HOME Study Material\Semester 1\Term 2\Scripting\AT2 Project\AT2 Project\bin\Debug\AT2 Project.exe.config
+C:\Users\bryce\OneDrive\Desktop\HOME Study Material\Semester 1\Term 2\Scripting\AT2 Project\AT2 Project\bin\Debug\AT2 Project.exe
+C:\Users\bryce\OneDrive\Desktop\HOME Study Material\Semester 1\Term 2\Scripting\AT2 Project\AT2 Project\bin\Debug\AT2 Project.pdb
+C:\Users\bryce\OneDrive\Desktop\HOME Study Material\Semester 1\Term 2\Scripting\AT2 Project\AT2 Project\obj\Debug\AT2 Project.csprojAssemblyReference.cache
+C:\Users\bryce\OneDrive\Desktop\HOME Study Material\Semester 1\Term 2\Scripting\AT2 Project\AT2 Project\obj\Debug\AT2_Project.Form1.resources
+C:\Users\bryce\OneDrive\Desktop\HOME Study Material\Semester 1\Term 2\Scripting\AT2 Project\AT2 Project\obj\Debug\AT2_Project.Properties.Resources.resources
+C:\Users\bryce\OneDrive\Desktop\HOME Study Material\Semester 1\Term 2\Scripting\AT2 Project\AT2 Project\obj\Debug\AT2 Project.csproj.GenerateResource.cache
+C:\Users\bryce\OneDrive\Desktop\HOME Study Material\Semester 1\Term 2\Scripting\AT2 Project\AT2 Project\obj\Debug\AT2 Project.csproj.CoreCompileInputs.cache
+C:\Users\bryce\OneDrive\Desktop\HOME Study Material\Semester 1\Term 2\Scripting\AT2 Project\AT2 Project\obj\Debug\AT2 Project.exe
+C:\Users\bryce\OneDrive\Desktop\HOME Study Material\Semester 1\Term 2\Scripting\AT2 Project\AT2 Project\obj\Debug\AT2 Project.pdb
